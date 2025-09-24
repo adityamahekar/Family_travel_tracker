@@ -5,7 +5,6 @@ The Family Travel Tracker is a web application that allows family members to kee
 A Updated version of the travel tracker.
 
 This project is built with Node.js, Express, PostgreSQL, and EJS templates, styled with CSS. It uses a database to store users and their visited countries, dynamically updating the map based on user input.
----
 ## 📷 Gallery
 
 | Members Adding Page | Map|
