@@ -6,7 +6,7 @@ This project is built with Node.js, Express, PostgreSQL, and EJS templates, styl
 ---
 ## 📷 Gallery
 
-| Map| Map|
+| Members Adding Page | Map|
 |--------|--------|
 | ![cvu1](./photos/cvu1.png) | ![cvu2](./photos/cvu2.png) |
 
