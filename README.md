@@ -2,6 +2,8 @@
 ---
 The Family Travel Tracker is a web application that allows family members to keep track of the countries they have visited. Each family member has their own profile with a custom color, and the app highlights visited countries on a shared world map. The total number of visited countries is displayed, giving families a fun and visual way to compare their journeys.
 
+A Updated version of the travel tracker.
+
 This project is built with Node.js, Express, PostgreSQL, and EJS templates, styled with CSS. It uses a database to store users and their visited countries, dynamically updating the map based on user input.
 ---
 ## 📷 Gallery
