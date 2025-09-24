@@ -17,7 +17,7 @@ This project is built with Node.js, Express, PostgreSQL, and EJS templates, styl
 ---
 
  1️⃣ Create Table in PostgreSQL(countries visited):
- <br>
+ <br><br>
 as given in the query.sql
  <br>
  
